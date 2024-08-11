@@ -1,8 +1,11 @@
+import React from "react";
+import HeroPage from "./components/HeroPage";
+
 function App() {
 
   return (
     <>
-      <h1>Backgroung Toggler</h1>
+      <HeroPage />
     </>
   );
 }
